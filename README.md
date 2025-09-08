@@ -1,4 +1,4 @@
-   ###   Muy lindo día! 🫐:
+   ###   Nice day! 🫐Karina
 <img alt="GIF" src="https://www.baque.com/wp-content/uploads/2016/08/leer-con-un-buen-cafe.jpg" width = 600/>
 
 <hr>
