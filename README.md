@@ -99,11 +99,9 @@
 ## Connect with me. 
 
 <p>
-<a href="https://github.com/Ing-KAvila"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="mailto:oktrasladosaccesibles@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
-
+<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
+<a href="mailto:edsrujana1@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
-
 
 
 Last Edited on: 08/09/2025
