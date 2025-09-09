@@ -1,4 +1,4 @@
-   ###   Nice day! 🫐 I'm Ing. Karina Avila
+   ###   Nice life! 🫐 I'm Ing. Karina Avila
 <img alt="GIF" src="https://www.baque.com/wp-content/uploads/2016/08/leer-con-un-buen-cafe.jpg" width = 600/>
 
 <hr>
