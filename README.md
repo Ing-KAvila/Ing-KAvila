@@ -75,12 +75,12 @@
 </tbody>
 </table>
 
-- **Web Development**
+- **Web Development 3.0**
 <table>
 <tbody>
  <tr>
 <td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<img height=60px src="https://campus.ethkipu.org/pluginfile.php/1/theme_moove/logo/1757342371/ethkipu-logo.svg"> 
 </td>
 
 </tr>
